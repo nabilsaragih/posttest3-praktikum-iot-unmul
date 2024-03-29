@@ -28,7 +28,7 @@ Monitoring menggunakan Blynk sebagai Platform IoT, Blynk diakses menggunakan tok
 6. Kabel x6
 
 ## Board Schematic
-![Board Schematic](https://github.com/nabilsaragih/posttest3-praktikum-iot-unmul/blob/main/pt3.jpg)
+![Board Schematic](https://github.com/nabilsaragih/posttest3-praktikum-iot-unmul/blob/main/pt31.jpg)
 
 ## Lampiran
 [LINK YOUTUBE](https://youtu.be/wvMMjccWErg)
